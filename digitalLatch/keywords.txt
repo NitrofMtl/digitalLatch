@@ -1,8 +1,0 @@
-DigitalLatch	KEYWORD2
-digitalLatch	KEYWORD2
-init	KEYWORD1
-reset	KEYWORD1
-latchRead	KEYWORD1
-latchWrite	KEYWORD1
-
-DigitalLatch32	KEYWORD2
